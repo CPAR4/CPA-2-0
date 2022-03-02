@@ -1,0 +1,88 @@
+.Logo-Nav > img{
+    width: 50px !important;
+}
+
+.Logo-Inicio {
+    width: 450px;
+    margin-top: 20px;
+}
+
+.nav-pills .nav-link {
+    color: black !important;
+}
+
+.nav-pills .nav-link.active {
+    background-color: rgb(187, 135, 240) !important;
+    color: white !important;
+}
+
+.Inicio-Cont > h1 {
+    font-family: 'Birthstone Bounce' !important;
+    color: white;
+    font-size: 80px;
+    padding-top: 20px;
+    font-weight: 900;
+}
+
+.Inicio {
+    background: linear-gradient(90deg, rgba(255,122,241,1) 0%, rgba(201,50,213,1) 37%, rgba(0,212,255,1) 100%);
+    width: 100%;
+    height: 700px;
+}
+
+.Acordeon-Inicio {
+    margin: 100px;
+    margin-top: 30px;
+}
+
+.Acordeon-Inicio > div > h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: 400;
+}
+
+.Strong-Act {
+    color: red;
+}
+
+.Activ-Stat {
+    padding:3px !important;
+    margin-right: 8px !important;
+    display: inline-grid !important; 
+}
+
+.Riesg-Stat {
+    padding:3px !important;
+    margin-right: 8px !important;
+    display: inline-grid !important;
+    border-radius: 100% !important;
+}
+
+.Desac-Stat {
+    padding:3px !important;
+    margin-right: 8px !important;
+    display: inline-grid !important;
+    border-radius: 100% !important;
+}
+
+.Alta-Stat {
+    padding:3px !important;
+    margin-right: 8px !important;
+    display: inline-grid !important;
+    border-radius: 100% !important;
+}
+
+.DataBase-NAV {
+    margin: 0px;
+    margin-top: 0px;
+}
+
+.nav-tabs {
+    margin-bottom: 20px !important;
+}
+
+.DataBase-NAV > .Bases > iframe {
+    width: 100%;
+    height: 870px;
+    overflow-x: hidden !important;
+}

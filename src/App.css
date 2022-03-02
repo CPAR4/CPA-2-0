@@ -1,3 +1,113 @@
+.AllConteiner {
+  background-image: url(./img/Fondo_CPA.png);
+  display: flex;
+  width: 100%;
+  height: 961px;
+}
+
+.Logo{
+  margin-left: 10%;
+}
+
+.Logo > img {
+  width: 250px;
+  padding: 30px;
+}
+
+.Line {
+  border-color: #000000;
+    height: 300px !important;
+    border-radius: 100px;
+    border-style: solid;
+    margin: 2px;
+    border-width: 2px;
+}
+
+.Conteiner {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  margin-top: 15%;
+  background-color: #ffffff;
+  border-radius: 60px;
+  box-shadow: 5px 10px 10px 5px rgb(0 0 0 / 13%);
+  width: 650px;
+  height: 350px;
+}
+
+.Datos {
+  margin-left: 10%;
+  margin-right: 20%;
+}
+
+.Conteiner > .Datos > h1{
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.Rol {
+  margin-top: 10px;
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.Rol-Select {
+  font-size: 15px;
+  padding: 2px;
+  border-radius: 20px;
+  margin-bottom: 2px;
+}
+
+.Iniciar {
+  margin: 20px;
+  font-size: 15px;
+  border-radius: 55px;
+  border-style: solid;
+  background-color: #b80fe2;
+  border-color: #b80fe2;
+  color: white;
+  padding: 10px;
+}
+
+.Iniciar:hover {
+  background-color: #7d079b;
+  border-color: #7d079b;
+  transform: scale(1.2);
+}
+
+.Conteiner > .Datos > form {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.Conteiner > .Datos > button {
+  margin-top: 30px;
+  text-align: center;
+  padding: 3px;
+}
+
+.Conteiner > .Datos > form > input {
+text-align: center;
+margin: 5px;
+width: 200px;
+height: 25px;
+border-radius: 50px;
+border-style: solid;
+border-color: rgb(44, 44, 44);
+border-width: 1px;
+padding: 20px;
+}
+
 .App {
   text-align: center;
 }
