@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/CPA-2-0.git/static/css/main.508644cc.css",
+    "main.js": "/CPA-2-0.git/static/js/main.b62b7f35.js",
+    "static/js/787.c7ee1f67.chunk.js": "/CPA-2-0.git/static/js/787.c7ee1f67.chunk.js",
+    "static/media/LogoCPA.png": "/CPA-2-0.git/static/media/LogoCPA.5fb15bb2c0049c17cb2f.png",
+    "static/media/Fondo_CPA.png": "/CPA-2-0.git/static/media/Fondo_CPA.b9a60923ab845ede75c9.png",
+    "index.html": "/CPA-2-0.git/index.html",
+    "main.508644cc.css.map": "/CPA-2-0.git/static/css/main.508644cc.css.map",
+    "main.b62b7f35.js.map": "/CPA-2-0.git/static/js/main.b62b7f35.js.map",
+    "787.c7ee1f67.chunk.js.map": "/CPA-2-0.git/static/js/787.c7ee1f67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.508644cc.css",
+    "static/js/main.b62b7f35.js"
+  ]
+}
