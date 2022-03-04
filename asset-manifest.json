@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.9fe2ff87.css",
-    "main.js": "/static/js/main.bef52e62.js",
+    "main.js": "/static/js/main.edc0640a.js",
     "static/js/787.c7ee1f67.chunk.js": "/static/js/787.c7ee1f67.chunk.js",
     "static/media/LogoCPA.png": "/static/media/LogoCPA.5fb15bb2c0049c17cb2f.png",
     "static/media/Fondo_CPA.png": "/static/media/Fondo_CPA.b9a60923ab845ede75c9.png",
     "index.html": "/index.html",
     "main.9fe2ff87.css.map": "/static/css/main.9fe2ff87.css.map",
-    "main.bef52e62.js.map": "/static/js/main.bef52e62.js.map",
+    "main.edc0640a.js.map": "/static/js/main.edc0640a.js.map",
     "787.c7ee1f67.chunk.js.map": "/static/js/787.c7ee1f67.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9fe2ff87.css",
-    "static/js/main.bef52e62.js"
+    "static/js/main.edc0640a.js"
   ]
 }
